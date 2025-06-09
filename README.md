@@ -1,7 +1,3 @@
-Olá! Tudo ótimo por aqui, e contigo? 😄 Estou animado para te ajudar a criar um projeto full stack com Vue.js 3, Node.js, banco de dados relacional, autenticação segura, testes e infraestrutura. Vamos estruturar um plano detalhado para aprender e implementar tudo isso de forma organizada, com um README.md que servirá como guia para o projeto e os estudos. Vou incluir configurações iniciais, explicações sobre as tecnologias, e um cronograma com objetivos diários para você implementar o código com base nas instruções. Vamos por partes!
-
----
-
 ### Visão Geral do Projeto
 Vamos criar um **sistema de gerenciamento de tarefas (To-Do List)** com autenticação de usuários. Ele terá:
 - **Frontend**: Vue.js 3 com Vite (build tool) e Vitest (testes).
